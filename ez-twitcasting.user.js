@@ -6,7 +6,6 @@
 // @match        *://*.twitcasting.tv/*
 // @supportURL  https://github.com/Boosoong/ez-twitcasting/issues
 // @homepageURL https://github.com/Boosoong/ez-twitcasting/
-// @downloadURL https://github.com/Boosoong/ez-twitcasting/raw/main/ez-twitcasting.user.js
 // @grant        none
 // @require     http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js
 // ==/UserScript==
